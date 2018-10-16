@@ -98,6 +98,7 @@ namespace UDPSensorReceiverPollution
 
                     //Console.ReadLine(); //for reading the data slowly
                     Thread.Sleep(1000);
+
                     number++;
                 }
             }
